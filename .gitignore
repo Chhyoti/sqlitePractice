@@ -1,6 +1,5 @@
 # ignore all db file
 *.db
-
 # ignore .vscode
 .vscode
 
@@ -11,3 +10,6 @@ __pycache__
 
 # env
 .eve
+
+# ignore day1.ipynb
+day1.ipynb
